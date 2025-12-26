@@ -9,7 +9,7 @@ public interface EnergySaver {
     // Enerji tasarruf modunu kapat
     void disableEnergySavingMode();
     
-    // Enerji tasarruf modu aktif mi?
+    // Enerji tasarruf modu aktif mi? method
     boolean isEnergySavingModeActive();
     
     // Tasarruf edilen enerji miktarını hesapla
